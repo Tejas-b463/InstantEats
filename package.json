@@ -1,0 +1,29 @@
+{
+    "name": "instanteats",
+    "version": "1.0.0",
+    "description": "This is InstantEats Food Delivering App",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tejas-b463/InstantEats.git"
+    },
+    "author": "Tejas Banait",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Tejas-b463/InstantEats/issues"
+    },
+    "homepage": "https://github.com/Tejas-b463/InstantEats#readme",
+    "devDependencies": {
+        "parcel": "^2.10.3",
+        "process": "^0.11.10"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "browsersList": [
+        "last 2 versions"
+    ]
+}
