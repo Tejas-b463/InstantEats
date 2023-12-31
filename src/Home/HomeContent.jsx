@@ -9,8 +9,9 @@ const HomeContent = () => {
     <div>
         {/* <MenuCarousel/>
         <RestaurantCarousel/> */}
+        {/* <ShimmerUI/> */}
         <RestaurantList/>
-        <ShimmerUI/>
+       
     </div>
   )
 }

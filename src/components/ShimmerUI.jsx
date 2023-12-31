@@ -18,7 +18,12 @@ const ShimmerUI = () => {
       <div className="h-8 md:h-10 lg:h-12 bg-gradient-to-r from-gray-300 via-gray-200 to-gray-300 w-1/3"></div>
     </div>
   </div>
-  )
-}
+
+  
+
+    );
+  };
+  
+ 
 
 export default ShimmerUI
